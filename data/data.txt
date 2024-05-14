@@ -1,0 +1,6 @@
+5	8	8	8
+5	8	8	8
+a	c	b	d
+	b	c	d
+	r	q	s
+q	s	pn	s
